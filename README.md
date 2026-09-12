@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Arpitha-004&color=blueviolet)
 
 
-I had worked at GoTo(Formerly LogMein) - Apparently this the monk that sold my ferari!!
+I had worked at GoTo(Formerly LogMein) - Apparently this the monk that sold my ferrari!!
 
 <!--
 **Arpitha-004/Arpitha-004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
